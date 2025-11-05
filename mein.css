@@ -1,0 +1,141 @@
+body{
+    font-family:sans-serif;
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(254, 254, 213), rgb(244, 169, 40));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+
+.box{
+    background-color: bisque;
+    padding: 30px;
+    margin: 150px;
+    border: 2px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 4px gray;
+    margin-top: 10px;
+}
+
+.btns{
+    background-color: rgb(255, 208, 253);
+    color: rgb(161, 1, 167);
+    border-radius: 15px;
+}
+
+.btns:hover {
+    background-color: blueviolet;
+    color: azure;
+    transform: scale(1.2);
+    transition: 0.67s;
+}
+
+marquee{
+    background-color: rgb(255, 157, 92);
+    color: aliceblue;
+    border-radius: 15px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.Tardiness {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+ul, ol{
+    list-style-position: inside;
+    text-align: center;
+    padding-left: 0;
+    margin: 10px auto;
+}
+
+img{
+    width: 10%;
+    height: 10%;
+}
+table{
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+th{
+    background-color: blueviolet;
+    padding: 15px;
+}
+
+.Absence1 {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.leave {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.makeuptest {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.remedial {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.itemsend {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.lockerkey {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.link {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.devices {
+    background-color: rgb(239, 206, 109);
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+    line-height: 0.9;
+}
+
+.footer{
+    background-color: black;
+    color: aliceblue;
+}
+
